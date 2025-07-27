@@ -2,7 +2,7 @@
 
 
 # 🧠 Self Serve Digital Dashboard
-This repository contains the complete **load script**, logic, and coding structure used to develop the **Self Serve Digital Dashboard (SSDD)** for M&S Bank. The dashboard is built in Qlik Sense and designed to provide data-driven visibility across customer digital behavior, product holding, and contact preferences.
+This repository contains the complete **load script**, logic, and coding structure used to develop the **Self Serve Digital Dashboard **. The dashboard is built in Qlik Sense and designed to provide data-driven visibility across customer digital behavior, product holding, and contact preferences.
 
 ## 🎯 Objective
 
